@@ -1,0 +1,25 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="nyc.c4q.java1203.NextFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:id="@+id/nextFragText"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/new_fragment" />
+    <TextView
+        android:id="@+id/bundleDataText"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="passed from bundle" />
+    <Button
+        android:id="@+id/NextFragButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>

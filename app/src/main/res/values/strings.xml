@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Java1203</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="main_fragment">This is a new fragment</string>
+    <string name="new_fragment">This is a next fragment</string>
+</resources>
